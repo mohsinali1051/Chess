@@ -1,2 +1,2 @@
 # Chess
-This Chess game will be played by 2 players
+This Chess game will be played by 2 players.
